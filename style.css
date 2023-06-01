@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+
+}
+canvas{
+  /* centralizar canvas */
+  padding: 0;
+    margin: auto;
+    display: block;
+    width: 1000px;
+    height: 700px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border: solid rgb(0, 0, 0);
+}
+.buton{
+  background-image:url("play.png") ;
+  width: 340;
+  right: 320;
+}
